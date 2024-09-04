@@ -1,0 +1,58 @@
+<div className="AndroidLarge1" style={{width: 375, height: 829, position: 'relative', background: 'white', borderRadius: 30, overflow: 'hidden'}}>
+  <img className="Image1" style={{width: 201, height: 58, left: 18, top: 25, position: 'absolute'}} src="https://via.placeholder.com/201x58" />
+  <img className="Ellipse1" style={{width: 75, height: 75, left: 11, top: 90, position: 'absolute', opacity: 0.75, borderRadius: 9999}} src="https://via.placeholder.com/75x75" />
+  <img className="Ellipse2" style={{width: 75, height: 75, left: 96, top: 90, position: 'absolute', borderRadius: 9999, border: '3px #F90AC5 solid'}} src="https://via.placeholder.com/75x75" />
+  <img className="Ellipse3" style={{width: 75, height: 75, left: 180, top: 90, position: 'absolute', borderRadius: 9999, border: '3px #F9F90A solid'}} src="https://via.placeholder.com/75x75" />
+  <div className="YourStory" style={{width: 62, height: 29, left: 18, top: 165, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>your story<br/></div>
+  <img className="Ellipse4" style={{width: 75, height: 75, left: 264, top: 90, position: 'absolute', borderRadius: 9999, border: '3px #F93A0A solid'}} src="https://via.placeholder.com/75x75" />
+  <div className="Heart" style={{width: 30, height: 30, paddingTop: 3.75, paddingBottom: 3.46, paddingLeft: 1.94, paddingRight: 1.94, left: 271, top: 33, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 26.13, height: 22.79, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <img className="Ellipse5" style={{width: 50, height: 50, left: 11, top: 210, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/50x50" />
+  <div className="SunNews" style={{width: 157, height: 1, left: 67, top: 221, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Istok Web', fontWeight: '400', wordWrap: 'break-word'}}>sun_news</div>
+  <img className="Image2" style={{width: 402, height: 246, left: -27, top: 271, position: 'absolute'}} src="https://via.placeholder.com/402x246" />
+  <div className="Heart" style={{width: 25, height: 25, paddingTop: 3.12, paddingBottom: 2.89, paddingLeft: 1.61, paddingRight: 1.61, left: 11, top: 525, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 21.77, height: 18.99, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div className="7k" style={{left: 45, top: 527, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>21.7k</div>
+  <div className="MessageCircle" style={{width: 25, height: 25, padding: 3.12, left: 96, top: 525, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 18.75, height: 18.75, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div style={{left: 124, top: 528, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>45</div>
+  <div className="Send" style={{width: 25, height: 25, padding: 2.08, left: 152, top: 526, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 20.83, height: 20.83, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div className="Send" style={{width: 25, height: 25, padding: 2.08, left: 333, top: 37, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 20.83, height: 20.83, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div className="VineshWinsSilverInParisOlympicsBecameTheFirstWomen" style={{width: 326, height: 60, left: 9, top: 580, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>vinesh wins silver in paris olympics became the first women<br/></div>
+  <div className="SunNews" style={{left: 10, top: 557, position: 'absolute', color: 'black', fontSize: 16, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>#sun_news</div>
+  <div className="Home" style={{width: 30, height: 30, paddingLeft: 3.75, paddingRight: 3.75, paddingTop: 2.50, paddingBottom: 2.50, left: 18, top: 758, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 22.50, height: 25, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div className="Search" style={{width: 30, height: 30, padding: 3.75, left: 94, top: 758, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 22.50, height: 22.50, border: '4px #1E1E1E solid'}}></div>
+  </div>
+  <div className="Rohit45" style={{left: 111, top: 167, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>rohit_45</div>
+  <div className="SchinChan" style={{left: 185, top: 166, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>schin chan</div>
+  <div className="Cinimavikadan" style={{left: 264, top: 167, position: 'absolute', color: 'black', fontSize: 13, fontFamily: 'Istok Web', fontWeight: '700', wordWrap: 'break-word'}}>cinimavikadan</div>
+  <img className="Ellipse6" style={{width: 27, height: 27, left: 311, top: 760, position: 'absolute', borderRadius: 9999, border: '1px black solid'}} src="https://via.placeholder.com/27x27" />
+  <img className="Image4" style={{width: 28, height: 28, left: 243, top: 760, position: 'absolute'}} src="https://via.placeholder.com/28x28" />
+  <img className="Ellipse7" style={{width: 45, height: 45, left: 10, top: 631, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/45x45" />
+  <div className="PrimeviedoIn" style={{left: 59, top: 640, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Istok Web', fontWeight: '400', wordWrap: 'break-word'}}>primeviedo.in</div>
+  <img className="Image5" style={{width: 389, height: 60, left: 0, top: 686, position: 'absolute'}} src="https://via.placeholder.com/389x60" />
+  <div className="CarbonAddFilled" style={{width: 28, height: 28, left: 59, top: 128, position: 'absolute'}}>
+    <div className="Vector" style={{width: 24.50, height: 24.50, left: 1.75, top: 1.75, position: 'absolute', background: '#0FA958'}}></div>
+    <div className="Vector" style={{width: 14, height: 14, left: 7, top: 7, position: 'absolute'}}></div>
+  </div>
+  <div className="BasilAddOutline" style={{width: 37, height: 37, left: 167, top: 755, position: 'absolute'}}>
+    <div className="Vector" style={{width: 15.40, height: 15.40, left: 10.80, top: 10.80, position: 'absolute', background: 'black'}}></div>
+    <div className="Vector" style={{width: 26.13, height: 26.18, left: 5.43, top: 5.41, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="BiThreeDotsVertical" style={{width: 16, height: 16, paddingTop: 1.50, paddingBottom: 1.50, left: 340, top: 231, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 3, height: 13, background: 'black'}}></div>
+  </div>
+  <div className="Bookmark" style={{width: 28, height: 28, paddingLeft: 5.83, paddingRight: 5.83, paddingTop: 3.50, paddingBottom: 3.50, left: 333, top: 524, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 16.33, height: 21, border: '4px #1E1E1E solid'}}></div>
+  </div>
+</div>
